@@ -1,0 +1,4 @@
+/* Hide main content areas only on homepage */
+ytd-rich-grid-renderer {
+    display: none !important;
+}
