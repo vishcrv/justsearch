@@ -1,4 +1,4 @@
-# justsearch- clean youtube extension
+# justsearch- youtube extension
 
 its js shows the search bar removing the recommendations.
 
